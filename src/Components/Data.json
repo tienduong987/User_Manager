@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Trần Đức Bo",
+        "tel":"09659865598",
+        "Permission":"1"
+    },
+    {
+        "id":2,
+        "name":"Trần Quang Hùng",
+        "tel":"0965456875",
+        "Permission":"2"
+    },
+    {
+        "id":3,
+        "name":"Nam Văn Cường",
+        "tel":"09587544564",
+        "Permission":"3"
+    },
+    {
+        "id":4,
+        "name":"Cao Đức Thắng",
+        "tel":"0314567896",
+        "Permission":"1"
+    },
+    {
+        "id":5,
+        "name":"Lê Tuấn Tú",
+        "tel":"0912458987",
+        "Permission":"3"
+    },
+    {
+        "id":6,
+        "name":"Mạc Văn Khoa",
+        "tel":"09659864588",
+        "Permission":"1"
+    }
+]
